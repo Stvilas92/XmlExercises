@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compañia>
+    <empleado id="0">
+        <nombre>Alejandro</nombre>
+        <apellidos>Vilas</apellidos>
+        <apodo>Alex</apodo>
+        <salario>1200</salario>
+    </empleado>
+    <empleado id="1">
+        <nombre>Alejandro</nombre>
+        <apellidos>Fernandez</apellidos>
+        <apodo>Nando</apodo>
+        <salario>1100</salario>
+    </empleado>
+    <empleado id="2">
+        <nombre>Arturo</nombre>
+        <apellidos>Vilas</apellidos>
+        <apodo>Turo</apodo>
+        <salario>12000</salario>
+    </empleado>
+</compañia>
